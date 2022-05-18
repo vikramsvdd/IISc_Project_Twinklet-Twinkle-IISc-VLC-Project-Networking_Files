@@ -1,3 +1,3 @@
 # Vikram-twinkle-Networking-files
 
-This is just the networking part of my IISc project , sorry will merge it with main IISc workflow later
+This is just the networking part of my IISc project , I did the smartphone-flashlight Project after i first completed this!
